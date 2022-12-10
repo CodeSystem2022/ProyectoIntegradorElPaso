@@ -3,7 +3,8 @@
 # INTEGRANTES
 
 Pablo Perez
-, Ivan Ramirez 
+, Ivan Ramirez
+, Gonzalo Tapia
 , Javier Reyes
 ,Denis Membrive
 , Eduardo Palma 
